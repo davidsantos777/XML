@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<ArmasyArmaduras>
+	<armadura>
+		<tipo>Placas</tipo>
+		<ubicación>Cabeza</ubicación>
+		<nombre>Casco de piel dura soldada</nombre>
+		<rareza>Épico</rareza>
+		<nivelRequerido>101</nivelRequerido>
+		<precio>85000</precio>
+		<nivelObjeto>860</nivelObjeto>
+		<ranuras>No</ranuras>
+		<estadísticas>
+			<estadística valor="567">Armadura</estadística>
+			<estadística valor="1495">Intelecto</estadística>
+			<estadística valor="2242">Aguante</estadística>
+			<estadística valor="925">Golpe crítico</estadística>
+			<estadística valor="497">Versatilidad</estadística>
+		</estadísticas>
+	</armadura>
+	<armadura>
+		<tipo>Placas</tipo>
+		<ubicación>Cintura</ubicación>
+		<nombre>Coraje incesante de Rethu</nombre>
+		<rareza>Legendario</rareza>
+		<nivelRequerido>101</nivelRequerido>
+		<precio>50000</precio>
+		<nivelObjeto>1000</nivelObjeto>
+		<ranuras>Si</ranuras>
+		<estadísticas>
+			<estadística valor="553">Armadura</estadística>
+			<estadística valor="4133">Intelecto</estadística>
+			<estadística valor="6199">Aguante</estadística>
+			<estadística valor="1029">Celeridad</estadística>
+			<estadística valor="772">Maestría</estadística>
+		</estadísticas>
+	</armadura>
+	<armadura>
+		<tipo>Miscelánea</tipo>
+		<ubicación>Cuello</ubicación>
+		<nombre>Amuleto de Cainwyn con joyas</nombre>
+		<rareza>Épico</rareza>
+		<nivelRequerido>60</nivelRequerido>
+		<precio>3070</precio>
+		<nivelObjeto>75</nivelObjeto>
+		<ranuras>No</ranuras>
+		<estadísticas>
+			<estadística valor="12">Intelecto</estadística>
+			<estadística valor="13">Aguante</estadística>
+			<estadística valor="6">Versatilidad</estadística>
+		</estadísticas>
+	</armadura>
+	<armadura>
+		<tipo>Cuero</tipo>
+		<ubicación>Hombro</ubicación>
+		<nombre>Bufas de egolatría</nombre>
+		<rareza>Épico</rareza>
+		<nivelRequerido>80</nivelRequerido>
+		<precio>30000</precio>
+		<nivelObjeto>213</nivelObjeto>
+		<ranuras>No</ranuras>
+		<estadísticas>
+			<estadística valor="22">Armadura</estadística>
+			<estadística valor="18">Intelecto</estadística>
+			<estadística valor="28">Aguante</estadística>
+			<estadística valor="14">Golpe crítico</estadística>
+			<estadística valor="9">Celeridad</estadística>
+		</estadísticas>
+	</armadura>
+	<armadura>
+		<tipo>Tela</tipo>
+		<ubicación>Manos</ubicación>
+		<nombre>Agarre cautivador de Mir</nombre>
+		<rareza>Épico</rareza>
+		<nivelRequerido>105</nivelRequerido>
+		<precio>19117</precio>
+		<nivelObjeto>785</nivelObjeto>
+		<ranuras>No</ranuras>
+		<estadísticas>
+			<estadística valor="129">Armadura</estadística>
+			<estadística valor="531">Intelecto</estadística>
+			<estadística valor="797">Aguante</estadística>
+			<estadística valor="202">Celeridad</estadística>
+			<estadística valor="505">Maestría</estadística>
+		</estadísticas>
+	</armadura>
+	<armadura>
+		<tipo>Miscelánea</tipo>
+		<ubicación>Espalda</ubicación>
+		<nombre>Capa de destreza artesanal de Gladiador infame</nombre>
+		<rareza>Poco común</rareza>
+		<nivelRequerido>90</nivelRequerido>
+		<precio>500</precio>
+		<nivelObjeto>458</nivelObjeto>
+		<ranuras>No</ranuras>
+		<estadísticas>
+			<estadística valor="10">Armadura</estadística>
+			<estadística valor="19">Fuerza</estadística>
+			<estadística valor="29">Aguante</estadística>
+			<estadística valor="11">Golpe crítico</estadística>
+			<estadística valor="14">Maestría</estadística>
+			<estadística valor="9">Poder Jcj</estadística>
+		</estadísticas>
+	</armadura>
+	<armadura>
+		<tipo>Malla</tipo>
+		<ubicación>Piernas</ubicación>
+		<nombre>Leotardos de anillas artesanales de Gladiador malévolo</nombre>
+		<rareza>Poco común</rareza>
+		<nivelRequerido>90</nivelRequerido>
+		<precio>1989</precio>
+		<nivelObjeto>476</nivelObjeto>
+		<ranuras>Si</ranuras>
+		<estadísticas>
+			<estadística valor="42">Armadura</estadística>
+			<estadística valor="64">Aguante</estadística>
+			<estadística valor="27">Golpe crítico</estadística>
+			<estadística valor="19">Celeridad</estadística>
+			<estadística valor="21">Poder Jcj</estadística>
+		</estadísticas>
+	</armadura>
+	<armadura>
+		<tipo>Placas</tipo>
+		<ubicación>Cintura</ubicación>
+		<nombre>Faja valerosa</nombre>
+		<rareza>Inusual</rareza>
+		<nivelRequerido>41</nivelRequerido>
+		<precio>2023</precio>
+		<nivelObjeto>46</nivelObjeto>
+		<ranuras>No</ranuras>
+		<estadísticas>
+			<estadística valor="27">Armadura</estadística>
+            <estadística valor="13">Intelecto</estadística>
+			<estadística valor="11">Aguante</estadística>
+		</estadísticas>
+	</armadura>
+	<armadura>
+		<tipo>Tela</tipo>
+		<ubicación>Cabeza</ubicación>
+		<nombre>Gracia de Cassandra</nombre>
+		<rareza>Poco común</rareza>
+		<nivelRequerido>42</nivelRequerido>
+		<precio>487</precio>
+		<nivelObjeto>47</nivelObjeto>
+		<ranuras>No</ranuras>
+		<estadísticas>
+			<estadística valor="10">Armadura</estadística>
+            <estadística valor="15">Intelecto</estadística>
+			<estadística valor="16">Aguante</estadística>
+			<estadística valor="7">Versatilidad</estadística>
+		</estadísticas>
+	</armadura>
+	<armadura>
+		<tipo>Cuero</tipo>
+		<ubicación>Pies</ubicación>
+		<nombre>Refugio eterno de la Centinela</nombre>
+		<rareza>Legendario</rareza>
+		<nivelRequerido>101</nivelRequerido>
+		<precio>58900</precio>
+		<nivelObjeto>1000</nivelObjeto>
+		<ranuras>Si</ranuras>
+		<estadísticas>
+			<estadística valor="372">Armadura</estadística>
+            <estadística valor="4133">Intelecto</estadística>
+			<estadística valor="6199">Aguante</estadística>
+			<estadística valor="772">Golpe crítico</estadística>
+			<estadística valor="1029">Maestría</estadística>
+		</estadísticas>
+	</armadura>
+	<arma>
+		<uso>Una mano</uso>
+		<tipo>Hachas de una mano</tipo>
+		<nombre>Cuchilla de Obsidium</nombre>
+		<rareza>Épico</rareza>
+		<nivelRequerido>85</nivelRequerido>
+		<precio>149</precio>
+		<nivelObjeto>378</nivelObjeto>
+		<dañoPorSegundo>40,38</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="12">Fuerza</estadística>
+			<estadística valor="18">Aguante</estadística>
+			<estadística valor="7">Golpe crítico</estadística>
+			<estadística valor="9">Maestría</estadística>
+		</estadísticas>
+	</arma>
+	<arma>
+		<uso>A distancia</uso>
+		<tipo>Ballestas</tipo>
+		<nombre>Ballesta Descarga de Lava</nombre>
+		<rareza>Épico</rareza>
+		<nivelRequerido>85</nivelRequerido>
+		<precio>99</precio>
+		<nivelObjeto>378</nivelObjeto>
+		<dañoPorSegundo>51,83</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="29">Agilidad</estadística>
+			<estadística valor="43">Aguante</estadística>
+			<estadística valor="20">Golpe crítico</estadística>
+			<estadística valor="18">Celeridad</estadística>
+		</estadísticas>
+	</arma>
+	<arma>
+		<uso>Dos manos</uso>
+		<tipo>Armas de asta</tipo>
+		<nombre>Alabarda ensangrentada de Mobus</nombre>
+		<rareza>Épico</rareza>
+		<nivelRequerido>90</nivelRequerido>
+		<precio>549</precio>
+		<nivelObjeto>457</nivelObjeto>
+		<dañoPorSegundo>62,36</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="35">Agilidad</estadística>
+			<estadística valor="52">Aguante</estadística>
+			<estadística valor="23">Celeridad</estadística>
+			<estadística valor="23">Maestría</estadística>
+		</estadísticas>
+	</arma>
+	<arma>
+		<uso>Una mano</uso>
+		<tipo>Dagas</tipo>
+		<nombre>Cuchillo vinculado al Vacío</nombre>
+		<rareza>Poco común</rareza>
+		<nivelRequerido>100</nivelRequerido>
+		<precio>39449</precio>
+		<nivelObjeto>638</nivelObjeto>
+		<dañoPorSegundo>125,28</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="1061">Intelecto</estadística>
+			<estadística valor="116">Aguante</estadística>
+			<estadística valor="39">Golpe crítico</estadística>
+			<estadística valor="59">Versatilidad</estadística>
+		</estadísticas>
+	</arma>
+	<arma>
+		<uso>Una mano</uso>
+		<tipo>Armas de puño</tipo>
+		<nombre>Aplastarriñones de Chade</nombre>
+		<rareza>Poco común</rareza>
+		<nivelRequerido>97</nivelRequerido>
+		<precio>26035</precio>
+		<nivelObjeto>614</nivelObjeto>
+		<dañoPorSegundo>200,96</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="62">Agilidad</estadística>
+			<estadística valor="92">Aguante</estadística>
+			<estadística valor="38">Golpe crítico</estadística>
+			<estadística valor="43">Celeridad</estadística>
+		</estadísticas>
+	</arma>
+	<arma>
+		<uso>A distancia</uso>
+		<tipo>Armas de fuego</tipo>
+		<nombre>Pistola aulladora del destello</nombre>
+		<rareza>Inusual</rareza>
+		<nivelRequerido>100</nivelRequerido>
+		<precio>550</precio>
+		<nivelObjeto>593</nivelObjeto>
+		<dañoPorSegundo>212,50</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="118">Agilidad</estadística>
+			<estadística valor="178">Aguante</estadística>
+			<estadística valor="67">Golpe crítico</estadística>
+			<estadística valor="86">Celeridad</estadística>
+		</estadísticas>
+	</arma>
+	<arma>
+		<uso>Dos manos</uso>
+		<tipo>Bastones</tipo>
+		<nombre>Cetro de mago enano de la ballena</nombre>
+		<rareza>Inusual</rareza>
+		<nivelRequerido>22</nivelRequerido>
+		<precio>607</precio>
+		<nivelObjeto>27</nivelObjeto>
+		<dañoPorSegundo>9,72</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="6">Aguante</estadística>
+			<estadística valor="6">Versatilidad</estadística>
+		</estadísticas>
+	</arma>
+	<arma>
+		<uso>Una mano</uso>
+		<tipo>Dagas</tipo>
+		<nombre>Aguijón supernumerario de Namlak</nombre>
+		<rareza>Épico</rareza>
+		<nivelRequerido>80</nivelRequerido>
+		<precio>5980</precio>
+		<nivelObjeto>200</nivelObjeto>
+		<dañoPorSegundo>30,44</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="9">Agilidad</estadística>
+			<estadística valor="13">Golpe crítico</estadística>
+			<estadística valor="9">Celeridad</estadística>
+		</estadísticas>
+	</arma>
+	<arma>
+		<uso>Dos manos</uso>
+		<tipo>Mazas de dos manos</tipo>
+		<nombre>El martillo de destino</nombre>
+		<rareza>Épico</rareza>
+		<nivelRequerido>70</nivelRequerido>
+		<precio>11518</precio>
+		<nivelObjeto>100</nivelObjeto>
+		<dañoPorSegundo>33,19</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="16">Fuerza</estadística>
+			<estadística valor="15">Aguante</estadística>
+			<estadística valor="15">Golpe crítico</estadística>
+		</estadísticas>
+	</arma>
+	<arma>
+		<uso>A distancia</uso>
+		<tipo>Ballestas</tipo>
+		<nombre>Balista brutal del lobo</nombre>
+		<rareza>Inusual</rareza>
+		<nivelRequerido>79</nivelRequerido>
+		<precio>9785</precio>
+		<nivelObjeto>178</nivelObjeto>
+		<dañoPorSegundo>44,33</dañoPorSegundo>
+		<estadísticas>
+			<estadística valor="31">Agilidad</estadística>
+			<estadística valor="31">Versatilidad</estadística>
+		</estadísticas>
+	</arma>
+</ArmasyArmaduras>
