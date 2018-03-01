@@ -8,7 +8,7 @@ Escribir por teclado un precio y contar todas las armas y armaduras que hay hast
 
 **Buscar o filtrar**
 
-Escribir la ubicación de una armadura y mostrar todas las que estén asociadas a ella(escribir un uso en el caso de las armas).
+Escribir la ubicación de una armadura y mostrar todas las que estén asociadas a ella (escribir un uso en el caso de las armas).
 
 **Buscar información relacionada**
 
